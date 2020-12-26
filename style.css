@@ -12,7 +12,7 @@ html{
 #clear{
     clear: both;
 }
-
+/*This is a comment*/
 #correct{
     position: relative;
     left: 250px;
